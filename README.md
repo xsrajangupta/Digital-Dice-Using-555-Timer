@@ -68,16 +68,14 @@ After the button is released, the display stops at a random number between **1 a
 
 ---
 
-##  Hardware Image
-
+## 📸 Hardware Image
 
 <p align="center">
-<img src="<img width="567" height="428" alt="Screenshot 2026-06-26 135048" src="https://github.com/user-attachments/assets/1175baf5-ec70-4e64-9883-4317f1791ce4" />
-" width="500">
+  <img src="./images/hardware%20image.png" width="500" alt="Digital Dice Hardware">
 </p>
 ```
 
----
+
 
 ##  Demonstration
 
