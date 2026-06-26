@@ -1,4 +1,4 @@
-# 🎲 Digital Dice Using 555 Timer IC
+#  Digital Dice Using 555 Timer IC
 
 <p align="center">
 
@@ -11,13 +11,13 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 This project demonstrates a **Digital Dice** built using the **NE555 Timer IC** and a **7-Segment Display**. The circuit was designed and tested in **Proteus** to simulate the working of an electronic dice. A **Verilog simulation** was also performed to study and verify the digital logic behavior.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 * Design an electronic digital dice using the **555 Timer IC**
 * Display random numbers on a **7-Segment Display**
@@ -26,7 +26,7 @@ This project demonstrates a **Digital Dice** built using the **NE555 Timer IC** 
 
 ---
 
-## 🛠 Components Used
+##  Components Used
 
 | Component            |
 | -------------------- |
@@ -40,7 +40,7 @@ This project demonstrates a **Digital Dice** built using the **NE555 Timer IC** 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Digital-Dice-Using-555-Timer
@@ -53,7 +53,7 @@ Digital-Dice-Using-555-Timer
 
 ---
 
-## ⚙️ Working Principle
+##  Working Principle
 
 When the push button is pressed, the **555 Timer** generates pulses that rapidly change the displayed number.
 
@@ -61,26 +61,19 @@ After the button is released, the display stops at a random number between **1 a
 
 ---
 
-## 💻 Software Used
+##  Software Used
 
 * Proteus Design Suite
 * Verilog HDL (Simulation)
 
 ---
 
-## 📸 Hardware Image
+##  Hardware Image
 
-> Add your hardware image here.
 
-```text
-images/hardware.jpg
-```
-
-Example:
-
-```md
 <p align="center">
-<img src="images/hardware.jpg" width="500">
+<img src="<img width="567" height="428" alt="Screenshot 2026-06-26 135048" src="https://github.com/user-attachments/assets/1175baf5-ec70-4e64-9883-4317f1791ce4" />
+" width="500">
 </p>
 ```
 
