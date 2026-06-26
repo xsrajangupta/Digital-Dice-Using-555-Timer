@@ -18,6 +18,15 @@ Components Used
 - Power Supply
 - Proteus Design Suite
 
+  Project Structure
+  Digital-Dice-Using-555-Timer
+│
+├── src
+├── images
+├── documents
+└── video
+
+
  Working Principle
 
 When the push button is pressed, the 555 Timer generates pulses that rapidly change the displayed number. After the button is released, the display stops at a random number between 1 and 6, behaving like a digital dice.
@@ -27,9 +36,20 @@ Software Used
 - Proteus Design Suite
 - Verilog HDL (Simulation)
 
+ Hardware Image
+
+![Hardware](images/hardware%20image.png)
+
 Watch the complete working model on YouTube:
 
 ▶️ **[Digital Dice Working Model](https://youtu.be/ymk6-CeHx30)**
+
+ Future Improvements
+
+- PCB implementation
+- Compact hardware design
+- Improved random number generation
+- Battery-powered portable version
 
 Author
 Srajan Gupta
