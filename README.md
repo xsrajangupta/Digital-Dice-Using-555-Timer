@@ -38,7 +38,8 @@ Software Used
 
  Hardware Image
 
-![Hardware](images/hardware%20image.png)
+![Hardware](<img width="567" height="428" alt="hardware image" src="https://github.com/user-attachments/assets/0abc39f5-ed2b-4483-9c10-0abf463f9a64" />
+)
 
 Watch the complete working model on YouTube:
 
