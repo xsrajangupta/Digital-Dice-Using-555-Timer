@@ -79,17 +79,24 @@ After the button is released, the display stops at a random number between **1 a
 
 ---
 
-## ▶️ Demonstration
+##  Demonstration
 
 Watch the complete working model on YouTube.
 
-**▶️ Digital Dice Working Model**
+<p align="center">
 
-(Add your YouTube link here.)
+<a href="https://youtu.be/ymk6-CeHx30?si=twRo-l5dyd4D3nlg">
+<img src="https://img.shields.io/badge/▶️%20Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
----
+</p>
 
-## 🚀 Future Improvements
+Or click here:
+
+🔗 **https://youtu.be/ymk6-CeHx30?si=twRo-l5dyd4D3nlg**
+
+
+##  Future Improvements
 
 * PCB implementation
 * Compact hardware design
@@ -98,24 +105,23 @@ Watch the complete working model on YouTube.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Srajan Gupta**
 
-B.Tech Electronics and Communication Engineering
+B.Tech Electronics and Communication Engineering @ VIT VELLORE
 
-VIT Vellore
+
 
 ---
 
-## 📌 About
+##  About
 
 Digital Dice using **555 Timer IC** designed and simulated in **Proteus** with **Verilog simulation** for logic verification.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, consider giving it a **⭐ Star** on GitHub.
-
 It motivates me to build and share more engineering projects.
